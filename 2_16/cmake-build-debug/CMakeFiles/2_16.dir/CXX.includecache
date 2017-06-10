@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenijlebedev/ClionProjects/2_16/main.cpp
+toyBDD.h
+/Users/evgenijlebedev/ClionProjects/2_16/toyBDD.h
+cmath
+-
+
+/Users/evgenijlebedev/ClionProjects/2_16/toyBDD.cpp
+toyBDD.h
+/Users/evgenijlebedev/ClionProjects/2_16/toyBDD.h
+cstring
+-
+limits
+-
+
+/Users/evgenijlebedev/ClionProjects/2_16/toyBDD.h
+vector
+-
+set
+-
+map
+-
+iostream
+-
+cassert
+-
+cstdlib
+-
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenijlebedev/ClionProjects/2_14/main/main.cpp
+iostream
+-
+rbtree.h
+/Users/evgenijlebedev/ClionProjects/2_14/main/rbtree.h
+../tests/def_dumper.h
+/Users/evgenijlebedev/ClionProjects/2_14/tests/def_dumper.h
+
+/Users/evgenijlebedev/ClionProjects/2_14/main/rbtree.h
+rbtree.hpp
+/Users/evgenijlebedev/ClionProjects/2_14/main/rbtree.hpp
+
+/Users/evgenijlebedev/ClionProjects/2_14/main/rbtree.hpp
+stdexcept
+-
+
+/Users/evgenijlebedev/ClionProjects/2_14/tests/def_dumper.h
+string
+-
+sstream
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+../main/rbtree.h
+/Users/evgenijlebedev/ClionProjects/2_14/main/rbtree.h
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceQueue.h
+stdexcept
+-
+NiceStack.h
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceStack.h
+NiceQueue.hpp
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceQueue.hpp
+
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceQueue.hpp
+
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceStack.h
+string
+-
+stdexcept
+-
+utility
+-
+vector
+-
+NiceStack.hpp
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceStack.hpp
+
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceStack.hpp
+
+/Users/evgenijlebedev/ClionProjects/DZ_5/main.cpp
+fstream
+-
+iostream
+-
+string
+-
+cstdlib
+-
+NiceStack.h
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceStack.h
+NiceQueue.h
+/Users/evgenijlebedev/ClionProjects/DZ_5/NiceQueue.h
+

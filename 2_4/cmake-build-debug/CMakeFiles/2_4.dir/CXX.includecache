@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenijlebedev/ClionProjects/2_4/dna_element.h
+iostream
+-
+string
+-
+
+/Users/evgenijlebedev/ClionProjects/2_4/dna_repairer.h
+dna_element.h
+/Users/evgenijlebedev/ClionProjects/2_4/dna_element.h
+linked_list.h
+/Users/evgenijlebedev/ClionProjects/2_4/linked_list.h
+map
+-
+
+/Users/evgenijlebedev/ClionProjects/2_4/linked_list.h
+linked_list.hpp
+/Users/evgenijlebedev/ClionProjects/2_4/linked_list.hpp
+
+/Users/evgenijlebedev/ClionProjects/2_4/linked_list.hpp
+stdexcept
+-
+
+/Users/evgenijlebedev/ClionProjects/2_4/main.cpp
+fstream
+-
+iostream
+-
+string
+-
+cstdlib
+-
+linked_list.h
+/Users/evgenijlebedev/ClionProjects/2_4/linked_list.h
+dna_repairer.h
+/Users/evgenijlebedev/ClionProjects/2_4/dna_repairer.h
+

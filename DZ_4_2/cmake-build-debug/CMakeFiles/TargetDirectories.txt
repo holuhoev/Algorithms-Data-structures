@@ -1,0 +1,3 @@
+/Users/evgenijlebedev/ClionProjects/DZ_4_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/evgenijlebedev/ClionProjects/DZ_4_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/evgenijlebedev/ClionProjects/DZ_4_2/cmake-build-debug/CMakeFiles/AsInfection.dir

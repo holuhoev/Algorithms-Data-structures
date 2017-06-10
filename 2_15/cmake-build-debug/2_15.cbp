@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2_15"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\gtest\;CMake Files\lib\gtest\googlemock\;CMake Files\lib\gtest\googletest\;CMake Files\lib\gtest\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_15">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/2_15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_15"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_15/fast">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/2_15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_15/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/include"/>
+					<Add directory="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evgenijlebedev/ClionProjects/2_15/cmake-build-debug/lib/gtest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/src/gmock-all.cc">
+			<Option target="gmock"/>
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/src/gtest-all.cc">
+			<Option target="gmock"/>
+			<Option target="gmock_main"/>
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/main/btree.cpp">
+			<Option target="2_15"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/main/btree.h">
+			<Option target="2_15"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/main/btree_adapters.h">
+			<Option target="2_15"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/main/main.cpp">
+			<Option target="2_15"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/main/utils.h">
+			<Option target="2_15"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googlemock\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googlemock\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googlemock\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/evgenijlebedev/ClionProjects/2_15/lib/gtest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\lib\gtest\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,50 @@
+RBTree Event Log opened
+-----------------------
+BST Insert [4] #    0
+RBT Insert [4] #    1
+BST Insert [50] #    2
+RBT Insert [50] #    3
+BST Insert [10] #    4
+Rot Right [50] #    5
+Recolor 3 dad [50] #    6
+Rot Left [4] #    7
+Recolor 3 grandpa [50] #    8
+RBT Insert [10] #    9
+BST Insert [40] #   10
+Recolor 1 [40] #   11
+RBT Insert [40] #   12
+BST Insert [17] #   13
+Recolor 3 dad [17] #   14
+Rot Right [50] #   15
+Recolor 3 grandpa [17] #   16
+RBT Insert [17] #   17
+BST Insert [35] #   18
+Recolor 1 [35] #   19
+RBT Insert [35] #   20
+BST Insert [20] #   21
+Rot Right [35] #   22
+Recolor 3 dad [35] #   23
+Rot Left [17] #   24
+Recolor 3 grandpa [35] #   25
+RBT Insert [20] #   26
+BST Insert [27] #   27
+Recolor 1 [27] #   28
+Rot Right [40] #   29
+Recolor 3 dad [40] #   30
+Rot Left [10] #   31
+Recolor 3 grandpa [40] #   32
+RBT Insert [27] #   33
+BST Insert [37] #   34
+RBT Insert [37] #   35
+BST Insert [45] #   36
+RBT Insert [45] #   37
+BST Insert [60] #   38
+RBT Insert [60] #   39
+BST Insert [21] #   40
+Recolor 1 [21] #   41
+Recolor 1 [35] #   42
+RBT Insert [21] #   43
+BST Insert [1] #   44
+RBT Insert [1] #   45
+BST Insert [30] #   46
+RBT Insert [30] #   47

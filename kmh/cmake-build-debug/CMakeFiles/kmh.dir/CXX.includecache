@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evgenijlebedev/ClionProjects/kmh/kmp.cpp
+kmp.h
+/Users/evgenijlebedev/ClionProjects/kmh/kmp.h
+iostream
+-
+
+/Users/evgenijlebedev/ClionProjects/kmh/kmp.h
+vector
+-
+string
+-
+
+/Users/evgenijlebedev/ClionProjects/kmh/main.cpp
+iostream
+-
+kmp.h
+/Users/evgenijlebedev/ClionProjects/kmh/kmp.h
+vector
+-
+
